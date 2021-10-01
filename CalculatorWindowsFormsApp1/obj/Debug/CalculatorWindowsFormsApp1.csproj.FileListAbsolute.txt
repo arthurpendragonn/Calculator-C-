@@ -1,0 +1,10 @@
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+C:\Users\Dito\source\repos\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb
